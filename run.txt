@@ -1,0 +1,4 @@
+1) Run postman
+2) Run resthub on visual studio -> node index
+3) http://localhost:8080/api/contacts
+4) mongod in shell?
